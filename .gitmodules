@@ -1,0 +1,12 @@
+[submodule "web"]
+	path = web
+	url = https://github.com/everyonewaiter/everyonewaiter-web.git
+[submodule "store/app"]
+	path = store/app
+	url = https://github.com/everyonewaiter/everyonewaiter-store-app.git
+[submodule "store/desktop"]
+	path = store/desktop
+	url = https://github.com/everyonewaiter/everyonewaiter-store-desktop.git
+[submodule "api"]
+	path = api
+	url = https://github.com/everyonewaiter/everyonewaiter-api.git
