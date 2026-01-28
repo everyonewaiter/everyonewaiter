@@ -3,7 +3,7 @@ name: Bug report
 about: 버그 리포트 템플릿
 title: "[Bug] "
 labels: "\U0001F41B Bug"
-assignees: handwoong
+assignees: ''
 
 ---
 
